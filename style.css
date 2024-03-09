@@ -1,0 +1,53 @@
+#div-1{
+    /*outline-style: dotted;*/
+    /*outline-color: blue;*/
+    outline: 5px groove yellow;
+    outline-offset: 20px;
+    margin: 53px;
+    text-shadow: 2px 5px red;
+    border: 1px solid black;
+    width: 150px;
+    height: 70px;
+
+}
+.h1{
+    text-align: center;
+    /*text-decoration: underline; */ /*line-through; overline; underline;*/
+    /*text-decoration: line-through overline dashed red;*/
+    /*text-transform: lowercase;*/
+    /*text-transform: capitalize;*/
+    /*text-indent: 50px;*/
+    /*letter-spacing: 5px;*/
+    /*line-height: 1; */
+    /*word-spacing: 10px;*/
+    /*white-space: nowrap;*/
+    text-shadow: 2px 2px 5px green;
+            /*2px 2px 5px red;*/
+}
+.div-2{
+}
+
+/*h1{*/
+/*    !*background-color: green;*!*/
+/*}*/
+.h-1{
+  background-color: blue;
+}
+.h-2{
+   background-color: yellow;
+}
+.h-3{
+  background-color: aqua;
+}
+.hello{
+    color: white;
+}
+.k{
+  border: 1px dotted black;
+}
+#h{
+text-align: center;
+}
+.h{
+    text-align: left;
+}
